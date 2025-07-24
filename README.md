@@ -51,8 +51,7 @@ EduScore-Panel/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/EduScore-Panel.git
-   cd EduScore-Panel
+   https://github.com/GaneshPrasadSahoo/EduScore-Panel.git
    ```
 
 2. **Install Dependencies**
