@@ -20,7 +20,7 @@ EduScore-Panel/
 
 ### 👨‍🏫 Teacher Panel
 
-- **Secure access** with a password (`Ganesh123` by default).
+- **Secure access** with a password (`Ganesh` by default).
 - **Create new result tables** dynamically:
   - After entering a table name, you select the number of subject columns.
   - The system automatically generates input fields for each column.
